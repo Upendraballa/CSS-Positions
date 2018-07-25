@@ -1,0 +1,13 @@
+.item1{
+	    position: static;
+		background-color: Magenta;
+		height: 300px;
+		width: 400px;
+    }
+    .item2{
+    	background-color: YellowGreen;
+		height: 300px;
+		width: 150px;
+		position: absolute;
+		left:400px;
+    }

@@ -1,0 +1,26 @@
+.item{
+		background-color: DeepPink;
+		height: 100px;
+		width: 100px;
+    }
+    .item1{
+    	background-color: SteelBlue;
+		height: 100px;
+		width: 100px;
+		position: relative;
+		left:300px;
+    }
+    .item2{
+    	background-color: YellowGreen;
+		height: 100px;
+		width: 100px;
+		position: absolute;
+		top:200px;
+    }
+    .item3{
+    	background-color: Goldenrod;
+		height: 100px;
+		width: 100px;
+		position: relative;
+		left:300px;
+    }

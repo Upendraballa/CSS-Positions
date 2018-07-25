@@ -1,0 +1,21 @@
+.item1{
+		background-color: DeepPink;
+		height: 100px;
+		width: 100px;
+		position: static;
+    }
+    .item2{
+
+    	background-color: SteelBlue;
+		height: 100px;
+		width: 100px;
+		position: absolute;
+		left:108px;
+    }
+    .item3{
+    	position: static;
+    	background-color: YellowGreen;
+		height: 100px;
+		width: 100px;
+
+    }

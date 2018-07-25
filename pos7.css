@@ -1,0 +1,20 @@
+.item{
+			background-color: green;
+			height: 100px;
+			width: 50%;
+			position: absolute;
+			bottom: 200px;
+		}
+		.item1{
+			background-color: pink;
+			height: 80px;
+			width: 10%;
+			position: absolute;
+			left:40px;
+			top: 280px;
+		}
+		.item2{
+			position: absolute;
+			left: 600px;
+			top:30px;
+		}
